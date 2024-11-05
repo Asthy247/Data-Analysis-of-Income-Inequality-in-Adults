@@ -47,9 +47,10 @@ Special characters was replaced or inconsistencies in the data to ensure accurat
 # •	Categorical Conversion: 
 The variable "workclass" was converted to a categorical data type for enhanced analysis of work categories and their association with income levels.
 # Exploratory Data Analysis (EDA)
-**1.	Univariate Analysis:** The distribution of each attribute was analyzed (e.g., age, education level, work class) to understand the central tendencies, variations, and potential skewness within the data. 
+# 1.	Univariate Analysis:
+The distribution of each attribute was analyzed (e.g., age, education level, work class) to understand the central tendencies, variations, and potential skewness within the data. 
 
-****A)	Distribution of Age**
+# A)	Distribution of Age
 
 **Histogram of Age**
 
@@ -58,7 +59,7 @@ The variable "workclass" was converted to a categorical data type for enhanced a
 
 The age distribution demonstrated a right-skewed pattern, indicating a larger proportion of younger individuals in the dataset.
 
-****B)	Distribution of Work class**
+# B)	Distribution of Work class
 
 **Bar chart of Work class****
 
@@ -75,7 +76,7 @@ The relationships between pairs of variables to identify potential correlations 
 Bivariate analysis allows us to explore the relationships between pairs of variables, such as the possible 
 correlation between age and income or the association between work class and income levels.
 
-**A)	Age vs. Income: **
+# A)	Age vs. Income:
 
 ![image](https://github.com/user-attachments/assets/3183d4cd-b5f6-4968-bcea-e893fb7c4d6e)
 
@@ -83,7 +84,7 @@ correlation between age and income or the association between work class and inc
 A boxplot analysis revealed a higher median age for individuals with incomes exceeding $50K compared to those earning less.
 This suggests a potential association between age and income.
 
-**B) Income Distribution: **
+# B) Income Distribution:
 
 Analyzing the income distribution demonstrated a clear class imbalance, with a considerably larger group earning less than or equal to $50K.
 
@@ -99,8 +100,6 @@ Analyzing the income distribution demonstrated a clear class imbalance, with a c
 **Class Imbalance:**
 The plot clearly shows an imbalance in the distribution of income levels. 
 There are significantly more individuals with an income less than or equal to $50K compared to those with an income greater than $50K.
-
-****Dominant Class: ****
 The majority of individuals in the dataset belong to the lower income group (<=50K).
 
 # Research Questions and Findings
@@ -140,6 +139,7 @@ Strengthen social safety nets to support low-income individuals and families.
 Enforce and strengthen anti-discrimination laws to ensure equal opportunities for all.
 
 **Data-Driven Decision Making:**
+
 **•	Continuous Monitoring:** 
 Continuously monitor changes in income distribution and identify emerging trends.
 
