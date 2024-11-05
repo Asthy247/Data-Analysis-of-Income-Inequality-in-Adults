@@ -106,39 +106,53 @@ The majority of individuals in the dataset belong to the lower income group (<=5
 # Research Questions and Findings
 
 **1.	How does age, education, and occupation influence income level?**
+
 Older individuals with higher education and professional occupations tend to have higher incomes.
 
 **2.	Is there a significant gender pay gap?**
+
 Preliminary analysis suggests a potential gender pay gap, but further investigation is needed to control for other factors.
 
 **3.	How does race and ethnicity impact income levels?**
+
 Certain racial and ethnic groups might face systemic disadvantages, leading to lower income levels.
 
 **4.	What is the impact of capital gains and losses on income?**
+
 Capital gains and losses can significantly impact income levels, especially for individuals in certain professions or investment activities.
 
 **5.	How does the number of hours worked per week correlate with income?**
+
 There is a positive correlation between hours worked and income, but other factors like occupation and productivity also play a role.
 
 # Recommendations
 Based on the analysis of the Adult Income dataset, I can offer the following recommendations:
 
 **Policy Implications:**
-**•	Education and Training:** Invest in education and training programs to equip individuals with the skills needed for higher-paying jobs.
 
-**•	Social Safety Nets:** Strengthen social safety nets to support low-income individuals and families.
+**•	Education and Training:** 
+Invest in education and training programs to equip individuals with the skills needed for higher-paying jobs.
 
-**•	Anti-Discrimination Laws:** Enforce and strengthen anti-discrimination laws to ensure equal opportunities for all.
+**•	Social Safety Nets:** 
+Strengthen social safety nets to support low-income individuals and families.
+
+**•	Anti-Discrimination Laws:** 
+Enforce and strengthen anti-discrimination laws to ensure equal opportunities for all.
 
 **Data-Driven Decision Making:**
-**•	Continuous Monitoring:** Continuously monitor changes in income distribution and identify emerging trends.
+**•	Continuous Monitoring:** 
+Continuously monitor changes in income distribution and identify emerging trends.
 
-**•	Targeted Interventions:** Develop targeted interventions to address specific needs of disadvantaged groups.
+**•	Targeted Interventions:** 
+Develop targeted interventions to address specific needs of disadvantaged groups.
 
-**•	Data-Driven Policymaking:** Use data analytics to inform policy decisions and evaluate the effectiveness of interventions.
+**•	Data-Driven Policymaking:** 
+Use data analytics to inform policy decisions and evaluate the effectiveness of interventions.
 
 **Machine Learning Applications:**
-**•	Predictive Modeling:** Develop predictive models to identify individuals at risk of low income and provide early interventions.
+
+**•	Predictive Modeling:** 
+Develop predictive models to identify individuals at risk of low income and provide early interventions.
 
 **•	Fairness and Bias:** Ensure that machine learning models are fair and unbiased, avoiding discriminatory outcomes.
 
@@ -148,5 +162,5 @@ By understanding the relationships between demographic, socioeconomic, and emplo
 I can identify areas for targeted interventions and policy changes.
 
 **Key findings from the analysis include:**
-****•	Age and Income: **
+
 **Older individuals tend to have higher incomes, likely due to factors like experience, seniority, and higher-paying positions.
